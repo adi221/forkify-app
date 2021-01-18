@@ -1,0 +1,5 @@
+# Files that we want Git to ignore
+node_modules
+dist
+.parcel-cache
+.DS_Store
