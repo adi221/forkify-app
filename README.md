@@ -1,3 +1,3 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+Recipe application for kitchen hobbyists and beginner cooks. Search through thousands of recipes for instructions and ingredients. Save your favorite recipes.
